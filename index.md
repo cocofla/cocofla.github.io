@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-大阪を拠点にWebアプリ・Webサービス・モバイル（iOS/Android）アプリの開発を行っております。
+大阪を拠点にWebアプリ・Webサービス・スマートフォン（iOS/Android）アプリの開発を行っております。
 
 アプリやサイトを作りたいのに人手が足りない、そのような場合はぜひ一度[お問い合わせ](/contact.html)ください。
 
